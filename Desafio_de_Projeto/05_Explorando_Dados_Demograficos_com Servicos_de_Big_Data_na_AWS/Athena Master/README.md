@@ -1,5 +1,5 @@
-# dio-live-athena
-Amazon Athena
+# Amazon Athena
+
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
